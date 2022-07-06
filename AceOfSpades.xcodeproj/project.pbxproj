@@ -51,9 +51,9 @@
 		B5B7EFE82874F29100141F08 /* AceOfSpades */ = {
 			isa = PBXGroup;
 			children = (
+				B5B7EFF72874F57100141F08 /* Resources */,
 				B5B7EFE92874F29100141F08 /* AceOfSpadesApp.swift */,
 				B5B7EFEB2874F29100141F08 /* ContentView.swift */,
-				B5B7EFED2874F29300141F08 /* Assets.xcassets */,
 				B5B7EFEF2874F29300141F08 /* Preview Content */,
 			);
 			path = AceOfSpades;
@@ -65,6 +65,14 @@
 				B5B7EFF02874F29300141F08 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B5B7EFF72874F57100141F08 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B5B7EFED2874F29300141F08 /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
